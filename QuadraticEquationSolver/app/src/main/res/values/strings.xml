@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuadraticEquationSolver</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_a">Enter A</string>
+    <string name="enter_b">Enter B</string>
+    <string name="enter_c">Enter C</string>
+    <string name="factored_form">Factored form:</string>
+    <string name="vertex_form">Vertex form:</string>
+    <string name="roots">Roots:</string>
+</resources>
